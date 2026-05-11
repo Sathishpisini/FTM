@@ -18,7 +18,7 @@ import org.hibernate.annotations.Type;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class Farmer {
+public class  Farmer {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
